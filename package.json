@@ -1,0 +1,27 @@
+{
+  "name": "disque-client-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node ./consumer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarshalW/disque-client-demo.git"
+  },
+  "keywords": [
+    "disque",
+    "client"
+  ],
+  "author": "Marshal (marshal.wu@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarshalW/disque-client-demo/issues"
+  },
+  "homepage": "https://github.com/MarshalW/disque-client-demo#readme",
+  "dependencies": {
+    "disque.js": "^0.1.3"
+  }
+}
